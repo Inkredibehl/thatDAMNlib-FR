@@ -1,0 +1,79 @@
+ItemName_FR = {
+    damnCraft.SchematicsBox = "Schémas de véhicules - Collection complète",
+    damnCraft.WindowSchematics = "Schémas de véhicules Vol.1 - Fenêtres",
+    damnCraft.DoorSchematics = "Schémas de véhicules Vol.2 - Portes",
+    damnCraft.HoodSchematics = "Schémas de véhicules Vol.3 - Capot",
+    damnCraft.TrunkLidSchematics = "Schémas de véhicules Vol.4 - Couvercles de coffre",
+    damnCraft.SeatSchematics = "Schémas de véhicules Vol.5 - Sièges",
+    damnCraft.RimSchematics = "Schémas de véhicules Vol.6 - Jantes",
+    damnCraft.MufflerSchematics = "Schémas de véhicules Vol.7 - Silencieux",
+    damnCraft.BumperSchematics = "Schémas de véhicules Vol.8 - Pare-chocs",
+
+    damnCraft.SteelRimSmall = "Jante en acier de petite taille",
+    damnCraft.SteelRimMedium = "Jante en acier de taille moyenne",
+    damnCraft.SteelRimLarge = "Jante en acier de grande taille",
+
+    damnCraft.TireRubberNewSmall = "Petit pneu en caoutchouc neuf",
+    damnCraft.TireRubberUsedSmall = "Petit pneu en caoutchouc usagé",
+    damnCraft.TireRubberDestroyedSmall = "Petit pneu en caoutchouc détruit",
+    damnCraft.TireRubberNewLarge = "Grand pneu en caoutchouc neuf",
+    damnCraft.TireRubberUsedLarge = "Grand pneu en caoutchouc usagé",
+    damnCraft.TireRubberDestroyedLarge = "Grand pneu en caoutchouc détruit",
+
+    damnCraft.TireRubberMountSmall = "Support en caoutchouc pour petit pneu",
+    damnCraft.TireRubberMountedSmall = "Petit pneu en caoutchouc monté",
+    damnCraft.TireRubberMountLarge = "Support en caoutchouc pour grand pneu",
+    damnCraft.TireRubberMountedLarge = "Grand pneu en caoutchouc monté",
+    
+    damnCraft.GlassPaneSmall = "Vitre de petit véhicule",
+    damnCraft.GlassPaneLarge = "Vitre de grand véhicule",
+
+    damnCraft.HandleClassic = "Poignée de véhicule classique",
+    damnCraft.HandleModern = "Poignée de véhicule moderne",
+
+    damnCraft.HingeSmall = "Charnière de petit véhicule",
+    damnCraft.HingeLarge = "Charnière de grand véhicule",
+
+    damnCraft.RubberStrip = "Bande de caoutchouc",
+
+    damnCraft.SeatFabric = "Tissu de siège",
+    damnCraft.SeatFoam = "Mousse de siège",
+    damnCraft.SeatFrameSmall = "Cadre de siège de petite taille",
+    damnCraft.SeatFrameLarge = "Cadre de siège de grande taille",
+
+    damnCraft.TireRepairKit = "Kit de réparation de pneu",
+    damnCraft.TireRepairRubberSolution = "Solution de caoutchouc pour réparation de pneu",
+    damnCraft.TireRepairStrips = "Bandes de réparation pour pneus",
+
+    damnCraft.PlasticWeldingKit = "Kit de soudure plastique",
+    damnCraft.PlasticWeldingGun = "Pistolet de soudure plastique",
+    damnCraft.PlasticWeldingStaples100Pack = "Agrafeuses de soudure plastique, paquet de 100",
+
+    runFlat.LargeTire = "Pneu large RunFlat",
+    runFlat.Large2TireAxle = "Essieu à deux pneus larges RunFlat",
+    runFlat.LargeDoubleTires = "Pneus larges doubles RunFlat",
+    runFlat.Large4TireAxle = "Essieu à quatre pneus larges RunFlat",
+    runFlat.MediumTire = "Pneu de taille moyenne RunFlat",
+    runFlat.Medium4TireAxle = "Essieu à quatre pneus de taille moyenne RunFlat",
+    runFlat.SmallTire = "Pneu de petite taille RunFlat",
+    runFlat.ModernTire = "Pneu moderne RunFlat",
+
+    USMIL.Seat0 = "Siège de véhicule militaire ST1",
+    USMIL.Seat1front = "Siège de véhicule militaire ST2",
+    USMIL.Seat1rear = "Siège de véhicule militaire ST2R",
+    USMIL.Seat2 = "Siège de véhicule militaire ST3",
+
+    USMIL.Crate0 = "Caisse en bois",
+    USMIL.Crate0military = "Caisse en bois militaire",
+    USMIL.Crate0Open = "Caisse en bois ouverte",
+    USMIL.Crate0militaryOpen = "Caisse en bois militaire ouverte",
+
+    USMIL.GasCan0 = "Bidon d'essence militaire",
+    USMIL.emptyGasCan0 = "Bidon d'essence militaire vide",
+
+    USMIL.SmallViewport0 = "Petit hublot",
+    USMIL.SmallViewportPack0 = "Pack de petits hublots",
+    USMIL.LargeViewport0 = "Grand hublot",
+    USMIL.LargeViewportPack0 = "Pack de grands hublots",
+
+}
