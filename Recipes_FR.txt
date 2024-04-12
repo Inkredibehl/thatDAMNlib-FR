@@ -1,0 +1,54 @@
+Recipes_FR = {
+	Recipe_Open_Schematics_Box = "Ouvrir Boîte à schémas",
+	
+	Recipe_Make_Steel_Rim = "Fabriquer une jante en acier",
+	
+	Recipe_Make_Rubber_Strips = "Fabriquer des bandes de caoutchouc",
+	
+	Recipe_Open_Tire_Repair_Kit = "Ouvrir Kit de réparation de pneu",
+	
+	Recipe_Open_Plastic_Welding_Kit = "Ouvrir Kit de soudure plastique",
+	Recipe_Insert_Battery = "Insérer une pile",
+	Recipe_Remove_Battery = "Retirer la pile",
+	
+	Recipe_Make_Small_Tire_Rubber_Mount = "Fabriquer un support en caoutchouc pour petit pneu",
+	Recipe_Add_Small_Tire_Rubber_To_Mount = "Ajouter du caoutchouc de petit pneu au support",
+	Recipe_Make_Large_Tire_Rubber_Mount = "Fabriquer un support en caoutchouc pour grand pneu",
+	Recipe_Add_Large_Tire_Rubber_To_Mount = "Ajouter du caoutchouc de grand pneu au support",
+	
+	Recipe_Make_Seat_Frame = "Fabriquer un châssis de siège",
+	
+	Recipe_Dismantle_Vehicle_Tire = "Démonter le pneu du véhicule",
+	Recipe_Dismantle_Vehicle_Hood = "Démonter le capot du véhicule",
+	Recipe_Dismantle_Vehicle_Trunk_Lid = "Démonter le couvercle de coffre du véhicule",
+	Recipe_Dismantle_Vehicle_Windshield = "Démonter le pare-brise du véhicule",
+	Recipe_Dismantle_Vehicle_Window = "Démonter la vitre du véhicule",
+	Recipe_Dismantle_Vehicle_Door = "Démonter la porte du véhicule",
+	Recipe_Dismantle_Vehicle_Seat = "Démonter le siège du véhicule",
+	Recipe_Dismantle_Vehicle_Muffler = "Démonter le silencieux du véhicule",
+	
+	Recipe_Convert_Old_runFlat = "Convértir vieu pneu runFlat",
+	Recipe_Make_Large_runFlat_Tire = "Fabriquer un gros pneu runFlat",
+	Recipe_Make_Large_runFlat_2_Tire_Axle = "Fabriquer un essieu avec 2 grands pneus runFlat",
+	Recipe_Make_Large_runFlat_Double_Tires = "Fabriquer double grands pneu runFlat",
+	Recipe_Make_Large_runFlat_4_Tire_Axle = "Fabriquer un essieu avec 4 grands pneus runFlat",
+	Recipe_Make_Medium_runFlat_Tire = "Fabriquer un pneu moyen runFlat",
+	Recipe_Make_Medium_runFlat_4_Tire_Axle = "Fabriquer un essieu avec 4 pneus moyens runFlat",
+	Recipe_Make_Small_runFlat_Tire = "Fabriquer un petit pneu runFlat",
+	Recipe_Make_Modern_runFlat_Tire = "Fabriquer un pneu moderne runFlat",
+
+	Recipe_Make_Military_Vehicle_Seat = "Fabriquer un siége de véhicule militaire",
+	Recipe_Make_Wooden_Crate = "Fabriquer une Caisse en bois",
+	Recipe_Make_Military_Wooden_Crate = "Fabriquer une Caisse en bois militaire",
+	Recipe_Make_Open_Military_Wooden_Crate = "Fabriquer une Caisse en bois militaire ouverte",
+	Recipe_Pry_Open_Wooden_Crate = "Forcer l'ouverture de la Caisse en bois",
+	Recipe_Pry_Open_Military_Wooden_Crate = "Forcer l'ouverture de la Caisse en bois militaire",
+
+	Recipe_Make_Military_Gas_Can = "Fabriquer une Jerrican d'essence militaire",
+	
+	Recipe_Make_Vehicle_Viewport = "Fabriquer un hublot de véhicule",
+	Recipe_Pack_Small_Viewports = "Mettre en boite les petits hublots",
+	Recipe_Unpack_Small_Viewports = "Déballer des petits hublots",
+	Recipe_Pack_Large_Viewports = "Mettre en boite les gros hublots",
+	Recipe_Unpack_Large_Viewports = "Déballer les gros hublots",
+}
